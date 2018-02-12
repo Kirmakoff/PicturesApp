@@ -1,0 +1,5 @@
+c:\users\samsung\documents\visual studio 2015\Projects\PicturesApp\PicturesApp\bin\Debug\PicturesApp.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\PicturesApp\PicturesApp\bin\Debug\PicturesApp.exe
+c:\users\samsung\documents\visual studio 2015\Projects\PicturesApp\PicturesApp\bin\Debug\PicturesApp.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\PicturesApp\PicturesApp\obj\Debug\PicturesApp.exe
+c:\users\samsung\documents\visual studio 2015\Projects\PicturesApp\PicturesApp\obj\Debug\PicturesApp.pdb
